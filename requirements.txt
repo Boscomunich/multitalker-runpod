@@ -1,6 +1,5 @@
 fastapi==0.116.1
 uvicorn[standard]==0.35.0
 python-multipart==0.0.20
-torch==2.7.1
 nemo_toolkit[asr] @ git+https://github.com/NVIDIA/NeMo.git@main
 omegaconf==2.3.0
